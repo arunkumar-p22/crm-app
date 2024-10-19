@@ -3,13 +3,13 @@
 class lead():
  
   def __init__():
-    print 'Lead class constructor.'
+    print 'Contact class constructor.'
  
   def create():
-    print 'Lead created.'
+    print 'Contact created.'
  
   def update():
-    print 'Lead updated.'
+    print 'Contact updated.'
  
   def view():
-    print 'View lead.'
+    print 'Contact lead.'
